@@ -1,4 +1,8 @@
-﻿using System.Collections;
+﻿//-----------------------------------------------------------------------------
+// Copyright(c) 2016 Jean Simonet - http://jeansimonet.com
+// Distributed under the MIT License - https://opensource.org/licenses/MIT
+//-----------------------------------------------------------------------------
+using System.Collections;
 using System.Collections.Generic;
 using Coroutines.Instructions;
 using System.Linq;
